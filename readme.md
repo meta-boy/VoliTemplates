@@ -6,6 +6,8 @@ templates for the dart package named [Voli](https://pub.dev/packages/voli)
 
 ```shell
 # template folder format
+\---Templates
+    |
 +---template_name
 |   |   template.yaml
 |   |
