@@ -2,7 +2,24 @@
 
 templates for the dart package named [Voli](https://pub.dev/packages/voli)
 
-## Folder Template Format
+## Folder and Template Format
+
+```shell
+# template folder format
++---template_name
+|   |   template.yaml
+|   |
+|   \---files
+|           main.dart
+
+# Example
+
++---tdd
+|   |   template.yaml
+|   |
+|   \---files
+|           main.dart
+```
 
 ```yaml
 
